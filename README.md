@@ -35,7 +35,7 @@ sudo cp target/release/dig /usr/local/bin/dig
 Or use the one-command installer (builds from source, requires Rust):
 
 ```
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/dig/main/install.sh | sh
+curl -fsSL https://aysdog.com/install-dig.sh | sh
 ```
 
 ## Usage
